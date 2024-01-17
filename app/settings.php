@@ -1,0 +1,37 @@
+<?php
+
+$settings["title"] = "Uğur ALTUN";
+$settings["description"] = "bu bir test açıklaması";
+$settings["keywords"] = "ugur, altun, udemy";
+$settings["theme"] = "v1";
+$settings["blog_title"] = "Teknoloji Bloğu";
+$settings["blog_description"] = "Blog açıklaması vs.";
+$settings["blog_search_title"] = "%s ile ilgili arama sonuçları";
+$settings["blog_search_description"] = "%s ile ilgili yazılan tüm yazılar ve videolu dersler";
+$settings["references_title"] = "Referenslar";
+$settings["references_description"] = "Uğur ALTUN&#039;in çalışmaları";
+$settings["maintenance_mode"] = "2";
+$settings["maintenance_mode_title"] = "Bakım Modu!!";
+$settings["maintenance_mode_description"] = "Bu site şu anda güncelleniyor, lütfen birkaç dakika sonra tekrar deneyin.";
+$settings["smtp_host"] = "smtp.gmail.com";
+$settings["smtp_email"] = "udemydenemehesabi@gmail.com";
+$settings["smtp_password"] = "udemy123";
+$settings["smtp_port"] = "587";
+$settings["smtp_secure"] = "tls";
+$settings["smtp_send_email"] = "udemydenemehesabi@gmail.com";
+$settings["smtp_send_name"] = "Udemy CMS";
+$settings["visitor_comment"] = "2";
+$settings["user_comment"] = "1";
+$settings["logo"] = "Udemy.com";
+$settings["search_placeholder"] = "Blogda ara..";
+$settings["about"] = "1993 yılında İzmirde&#039;de doğdum. 2013&#039;den beri front-end ve back-end developer olarak çalışıyorum.";
+$settings["facebook"] = "altunnet";
+$settings["twitter"] = "uguraltun";
+$settings["instagram"] = "uguraltun";
+$settings["linkedin"] = "uguraltun";
+$settings["welcome_title"] = "Siteye hoşgeldiniz!";
+$settings["welcome_text"] = "Bu web sitesi altında, yazılım ile alakalı makaleler, günlük hayat ile ilgili tecrübeler ve müzikle ilgili bazı tavsiyeler bulabilirsiniz. Kısaca kişisel bir bloğa hoşgeldiniz, keyfini çıkarın!";
+$settings["blog_pagination"] = "1";
+$settings["blog_category_pagination"] = "1";
+$settings["blog_search_pagination"] = "1";
+$settings["blog_tag_pagination"] = "2";
